@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+sympy>=1.12
+pillow>=10
+ipython>=8
+nbformat>=5.9
+ipykernel>=6.29
+jupyterlab>=4
